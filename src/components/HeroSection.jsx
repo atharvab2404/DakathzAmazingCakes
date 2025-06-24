@@ -11,7 +11,7 @@ const HeroSection = () => {
         muted
         playsInline
       >
-        <source src="./hero-video1.mp4" type="video/mp4" />
+        <source src="https://res.cloudinary.com/dqedwovc4/video/upload/v1750775644/hero-video1_kekak4.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
 
@@ -22,7 +22,7 @@ const HeroSection = () => {
       <div className="relative z-20 flex flex-col items-center justify-center h-full text-center px-4 space-y-6 -mt-12">
         {/* Logo */}
         <img
-          src="logo.png"  // Replace with your actual logo path
+          src="https://res.cloudinary.com/dqedwovc4/image/upload/v1750775744/logo_tvghxw.png"  // Replace with your actual logo path
           alt="Mom's Bakery Logo"
           className="w-64 sm:w-72 md:w-140 lg:w-102 object-contain" // Increase width here
         />
