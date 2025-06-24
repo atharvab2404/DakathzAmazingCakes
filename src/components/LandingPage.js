@@ -8,13 +8,11 @@ import HeroSection from "./HeroSection";
 import Navbar from './Navbar';
 
 const chefImages = [
-  '/images/chef1.jpg',
-  '/images/chef2.jpg',
-  '/images/chef3.jpg',
-  '/images/chef4.jpg',
-  '/images/chef5.jpg',
-  '/images/chef6.jpg',
-  '/images/chef7.jpg'
+  'https://res.cloudinary.com/dqedwovc4/image/upload/v1750776005/chef1_b2ts7e.jpg',
+  'https://res.cloudinary.com/dqedwovc4/image/upload/v1750776005/chef2_l9vbf8.jpg',
+  'https://res.cloudinary.com/dqedwovc4/image/upload/v1750776007/chef7_xhb5qf.jpg',
+  'https://res.cloudinary.com/dqedwovc4/image/upload/v1750776006/chef4_fqyx33.jpg',
+  'https://res.cloudinary.com/dqedwovc4/image/upload/v1750776006/chef5_ctgsjd.jpg'
 ];
 
 

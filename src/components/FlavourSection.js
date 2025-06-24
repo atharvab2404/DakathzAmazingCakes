@@ -4,42 +4,42 @@ import { motion, AnimatePresence } from 'framer-motion';
 const regularFlavours = [
   {
     label: "Pineapple",
-    bg: "url('/cake_flavours/pineapple-bg.jpg')",
+    bg: "url('https://res.cloudinary.com/dqedwovc4/image/upload/v1750776002/pineapple-bg_l5m5n1.jpg')",
     description: "Made with real pineapple.",
   },
   {
     label: "Fresh Fruit",
-    bg: "url('/cake_flavours/fruits-bg.jpg')",
+    bg: "url('https://res.cloudinary.com/dqedwovc4/image/upload/v1750776003/fruits-bg_qswrwk.jpg')",
     description: "Made with real seasonal fruits for a light, refreshing experience.",
   },
   {
     label: "Chocolate Truffle",
-    bg: "url('/cake_flavours/truffle-bg.jpg')",
+    bg: "url('https://res.cloudinary.com/dqedwovc4/image/upload/v1750776004/truffle-bg_duobzx.jpg')",
     description: "Rich chocolate layers with silky ganache—pure indulgence.",
   },
   {
     label: "Red Velvet",
-    bg: "url('/cake_flavours/redvelvet-bg.jpg')",
+    bg: "url('https://res.cloudinary.com/dqedwovc4/image/upload/v1750776003/redvelvet-bg_rirpro.jpg')",
     description: "A classic favorite with smooth cream cheese frosting.",
   },
   {
     label: "Butterscotch",
-    bg: "url('/cake_flavours/butterscotch-bg.jpg')",
+    bg: "url('https://res.cloudinary.com/dqedwovc4/image/upload/v1750776001/blackforrest-bg_uflstc.jpg')",
     description: "Caramelized crunch with soft butterscotch cream—balanced and buttery.",
   },
   {
     label: "Strawberry",
-    bg: "url('/cake_flavours/strawberry-bg.jpg')",
+    bg: "url('https://res.cloudinary.com/dqedwovc4/image/upload/v1750776003/strawberry-bg_tnueyi.jpg')",
     description: "Caramelized crunch with soft butterscotch cream—balanced and buttery.",
   },
   {
     label: "Coffee",
-    bg: "url('/cake_flavours/coffee-bg.jpg')",
+    bg: "url('https://res.cloudinary.com/dqedwovc4/image/upload/v1750776002/coffee-bg_iqw0df.jpg')",
     description: "Caramelized crunch with soft butterscotch cream—balanced and buttery.",
   },
   {
     label: "White Forest",
-    bg: "url('/cake_flavours/butterscotch-bg.jpg')",
+    bg: "url('https://res.cloudinary.com/dqedwovc4/image/upload/v1750776002/choco-hazelnut_evv93k.jpg')",
     description: "Caramelized crunch with soft butterscotch cream—balanced and buttery.",
   },
 ];
@@ -47,42 +47,42 @@ const regularFlavours = [
 const chocolateFusions = [
   {
     label: "Choco-Blueberry",
-    bg: "url('/cake_flavours/choco-blueberry.jpg')",
+    bg: "url('https://res.cloudinary.com/dqedwovc4/image/upload/v1750776001/choco-blueberry_pmm9kj.jpg')",
     description: "Dark chocolate & juicy blueberry mix.",
   },
   {
     label: "Choco-Hazelnut",
-    bg: "url('/cake_flavours/choco-hazelnut.jpg')",
+    bg: "url('https://res.cloudinary.com/dqedwovc4/image/upload/v1750776002/chocohazelnut-bg_wznodm.jpg')",
     description: "Nutella layers with roasted hazelnuts.",
   },
   {
     label: "Chocolate mousse",
-    bg: "url('/cake_flavours/choco-mousse.jpg')",
+    bg: "url('https://res.cloudinary.com/dqedwovc4/image/upload/v1750776003/choco-mousse_dklhrh.jpg')",
     description: "Nutella layers with roasted hazelnuts.",
   },
   {
     label: "Classic Truffle",
-    bg: "url('/cake_flavours/truffle-bg.jpg')",
+    bg: "url('https://res.cloudinary.com/dqedwovc4/image/upload/v1750776004/truffle-bg_duobzx.jpg')",
     description: "Intense chocolate with ganache layers.",
   },
   {
     label: "Chocolate coffee",
-    bg: "url('/cake_flavours/choco-coffee.jpg')",
+    bg: "url('https://res.cloudinary.com/dqedwovc4/image/upload/v1750776002/choco-coffee_w18swc.jpg')",
     description: "Nutella layers with roasted hazelnuts.",
   },
   {
     label: "Chocolate Caramel",
-    bg: "url('/cake_flavours/choco-caramel.jpg')",
+    bg: "url('https://res.cloudinary.com/dqedwovc4/image/upload/v1750776002/choco-caramel_qhgbpv.jpg')",
     description: "Intense chocolate with ganache layers.",
   },
   {
     label: "Chocolate Strawberry",
-    bg: "url('/cake_flavours/choco-strawberry.jpg')",
+    bg: "url('https://res.cloudinary.com/dqedwovc4/image/upload/v1750776002/choco-strawberry_g71q7w.jpg')",
     description: "Intense chocolate with ganache layers.",
   },
   {
     label: "Black Forest",
-    bg: "url('/cake_flavours/blackforrest-bg.jpg')",
+    bg: "url('https://res.cloudinary.com/dqedwovc4/image/upload/v1750776001/blackforrest-bg_uflstc.jpg')",
     description: "Intense chocolate with ganache layers.",
   },
 ];
@@ -183,7 +183,7 @@ const FlavourSection = () => {
       id="flavour"
       className="bg-cover bg-center bg-no-repeat py-6 px-4 sm:px-6 md:px-10"
       style={{
-        backgroundImage: "url('/cake_flavours/bg.png')",
+        backgroundImage: "url('https://res.cloudinary.com/dqedwovc4/image/upload/v1750776000/bg_c58anm.png')",
       }}
     >
 

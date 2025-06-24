@@ -2,9 +2,8 @@ import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
 const images = [
-  "/images/about1.jpg",
-  "/images/about2.jpg",
-  "/images/about3.jpg",
+  "https://res.cloudinary.com/dqedwovc4/image/upload/v1750776239/about1_yzyc3k.jpg",
+  "https://res.cloudinary.com/dqedwovc4/image/upload/v1750776006/about3_lg0kmg.jpg"
 ];
 
 const testimonials = [
