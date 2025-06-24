@@ -3,22 +3,22 @@ import { Link } from "react-router-dom";
 
 const CocomelonGallery = () => {
   const images = [
-    "/theme/cocomelon/img-1.jpg",
-    "/theme/cocomelon/img-2.jpg",
-    "/theme/cocomelon/img-3.jpg",
-    "/theme/cocomelon/img-4.jpg",
-    "/theme/cocomelon/img-5.jpg",
-    "/theme/cocomelon/img-6.jpg",
-    "/theme/cocomelon/img-7.jpg",
-    "/theme/cocomelon/img-8.jpg",
-    "/theme/cocomelon/img-9.jpg",
-    "/theme/cocomelon/img-10.jpg",
-    "/theme/cocomelon/img-11.jpg",
-    "/theme/cocomelon/img-12.jpg",
-    "/theme/cocomelon/img-13.jpg",
-    "/theme/cocomelon/img-14.jpg",
-    "/theme/cocomelon/img-15.jpg",
-    "/theme/cocomelon/img-16.jpg"
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741458/img-1_nsj3cp.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741462/img-2_f1tawq.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741463/img-3_jlefbk.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741464/img-4_dzzjnm.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741465/img-5_yciiub.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741466/img-6_fuiqqy.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741467/img-7_noylap.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741467/img-8_bskvtv.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741469/img-9_dc8i09.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741459/img-10_ijih5m.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741499/img-11_dfwcxq.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741461/img-12_ftq2jp.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741461/img-13_nzj3zl.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741464/img-14_yyuwhf.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741461/img-15_ugyebo.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741462/img-16_hfexsd.jpg"
   ];
 
   return (
