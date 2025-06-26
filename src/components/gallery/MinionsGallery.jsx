@@ -3,18 +3,18 @@ import { Link } from "react-router-dom";
 
 const MinionsGallery = () => {
   const images = [
-    "/theme/minions/img-1.jpg",
-    "/theme/minions/img-2.jpg",
-    "/theme/minions/img-3.jpg",
-    "/theme/minions/img-4.jpg",
-    "/theme/minions/img-5.jpg",
-    "/theme/minions/img-6.jpg",
-    "/theme/minions/img-7.jpg",
-    "/theme/minions/img-8.jpg",
-    "/theme/minions/img-9.jpg",
-    "/theme/minions/img-10.jpg",
-    "/theme/minions/img-11.jpg",
-    "/theme/minions/img-12.jpg"
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767999/img-1_vbrioc.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750768593/img-2_l7u6ev.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750768002/img-3_cdy38z.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750768001/img-4_o7myjl.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750768002/img-5_ejpnwi.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750768003/img-6_wzmphl.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750768004/img-7_h9baoh.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750768004/img-8_q4az0b.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750768003/img-9_niwunf.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750768592/img-10_arrubm.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750768592/img-11_eeb8va.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750768594/img-12_fjbqni.jpg"
   ];
 
   return (

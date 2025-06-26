@@ -3,23 +3,23 @@ import { Link } from "react-router-dom";
 
 const HarrypotterGallery = () => {
   const images = [
-    "/theme/harrypotter/img-1.jpg",
-    "/theme/harrypotter/img-2.jpg",
-    "/theme/harrypotter/img-3.jpg",
-    "/theme/harrypotter/img-4.jpg",
-    "/theme/harrypotter/img-5.jpg",
-    "/theme/harrypotter/img-6.jpg",
-    "/theme/harrypotter/img-7.jpg",
-    "/theme/harrypotter/img-8.jpg",
-    "/theme/harrypotter/img-9.jpg",
-    "/theme/harrypotter/img-10.jpg",
-    "/theme/harrypotter/img-11.jpg",
-    "/theme/harrypotter/img-12.jpg",
-    "/theme/harrypotter/img-13.jpg",
-    "/theme/harrypotter/img-14.jpg",
-    "/theme/harrypotter/img-15.jpg",
-    "/theme/harrypotter/img-16.jpg",
-    "/theme/harrypotter/img-17.jpg"
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750768003/img-1_brdyoc.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750768010/img-2_izx95t.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750768011/img-3_ssqkjm.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750768011/img-4_toksiv.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750768011/img-5_pym5hw.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750768013/img-6_zwrhwx.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750768019/img-7_s2xhx0.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750768016/img-8_potlgu.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750768016/img-9_pztglv.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750768003/img-10_jzgpvl.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750768004/img-11_avhd4p.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750768005/img-12_as7vge.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750768007/img-13_cr44k3.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750768008/img-14_ydly9f.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750768008/img-15_mtrtev.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750768008/img-16_udzrhp.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750768009/img-17_kolfkw.jpg"
   ];
 
   return (

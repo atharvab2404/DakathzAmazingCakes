@@ -3,22 +3,22 @@ import { Link } from "react-router-dom";
 
 const DressGallery = () => {
   const images = [
-    "/theme/dress/img-1.jpg",
-    "/theme/dress/img-2.jpg",
-    "/theme/dress/img-3.jpg",
-    "/theme/dress/img-4.jpg",
-    "/theme/dress/img-5.jpg",
-    "/theme/dress/img-6.jpg",
-    "/theme/dress/img-7.jpg",
-    "/theme/dress/img-8.jpg",
-    "/theme/dress/img-9.jpg",
-    "/theme/dress/img-10.jpg",
-    "/theme/dress/img-11.jpg",
-    "/theme/dress/img-12.jpg",
-    "/theme/dress/img-13.jpg",
-    "/theme/dress/img-14.jpg",
-    "/theme/dress/img-15.jpg",
-    "/theme/dress/img-16.jpg"
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750749286/img-1_jjkhwj.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750749311/img-2_chuxgx.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750749315/img-3_dhl0aa.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750749318/img-4_xknmhu.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750749321/img-5_hunptc.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750749324/img-6_xkcgnj.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750749327/img-7_mtwajv.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750749330/img-8_cc4x1c.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750749333/img-9_vsftvh.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750749289/img-10_wbx3vc.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750749292/img-11_kugqvx.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750749295/img-12_b5atoo.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750749299/img-13_x2wfrc.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750749302/img-14_bsx7wy.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750749305/img-15_rnf15e.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750749308/img-16_bvzxpe.jpg"
   ];
 
   return (

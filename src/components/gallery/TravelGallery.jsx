@@ -3,22 +3,22 @@ import { Link } from "react-router-dom";
 
 const TravelGallery = () => {
   const images = [
-    "/theme/travel/img-1.jpg",
-    "/theme/travel/img-2.jpg",
-    "/theme/travel/img-3.jpg",
-    "/theme/travel/img-4.jpg",
-    "/theme/travel/img-5.jpg",
-    "/theme/travel/img-6.jpg",
-    "/theme/travel/img-7.jpg",
-    "/theme/travel/img-8.jpg",
-    "/theme/travel/img-9.jpg",
-    "/theme/travel/img-10.jpg",
-    "/theme/travel/img-11.jpg",
-    "/theme/travel/img-12.jpg",
-    "/theme/travel/img-13.jpg",
-    "/theme/travel/img-14.jpg",
-    "/theme/travel/img-15.jpg",
-    "/theme/travel/img-16.jpg"
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869031/img-1_mitcgc.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869033/img-2_uhruhu.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869033/img-3_nwunoi.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869033/img-4_loitnm.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869033/img-5_dkszqa.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869033/img-6_pqtsms.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869033/img-7_f9siyy.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869033/img-8_hhbool.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869034/img-9_zmeb3r.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869031/img-10_fsxh5k.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869032/img-11_y3faty.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869032/img-12_fmfquh.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869032/img-13_v8mqe6.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869032/img-14_vkp4ie.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869032/img-15_jy3kot.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869032/img-16_qud1oh.jpg"
   ];
 
   return (

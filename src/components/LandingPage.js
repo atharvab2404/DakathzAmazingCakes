@@ -126,7 +126,7 @@ const BakeryLandingPage = () => {
       <CatalogueSection />
 
       {/* Contact Section */}
-      <section className="py-16 bg-gray-200">
+      <section id="contact" className="py-16 bg-gray-200">
         <div className="container mx-auto text-center">
           <motion.h2
             className="text-4xl font-bold text-pink-600 mb-8"

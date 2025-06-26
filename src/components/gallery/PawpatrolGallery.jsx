@@ -3,25 +3,25 @@ import { Link } from "react-router-dom";
 
 const PawpatrolGallery = () => {
   const images = [
-    "/theme/pawpatrol/img-1.jpg",
-    "/theme/pawpatrol/img-2.jpg",
-    "/theme/pawpatrol/img-3.jpg",
-    "/theme/pawpatrol/img-4.jpg",
-    "/theme/pawpatrol/img-5.jpg",
-    "/theme/pawpatrol/img-6.jpg",
-    "/theme/pawpatrol/img-7.jpg",
-    "/theme/pawpatrol/img-8.jpg",
-    "/theme/pawpatrol/img-9.jpg",
-    "/theme/pawpatrol/img-10.jpg",
-    "/theme/pawpatrol/img-11.jpg",
-    "/theme/pawpatrol/img-12.jpg",
-    "/theme/pawpatrol/img-13.jpg",
-    "/theme/pawpatrol/img-14.jpg",
-    "/theme/pawpatrol/img-15.jpg",
-    "/theme/pawpatrol/img-16.jpg",
-    "/theme/pawpatrol/img-17.jpg",
-    "/theme/pawpatrol/img-18.jpg",
-    "/theme/pawpatrol/img-19.jpg"
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750868999/img-1_mbqcdk.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869002/img-2_mz33jo.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869002/img-3_cw485m.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869003/img-4_p24xmp.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869003/img-5_grddam.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869003/img-6_k3fzci.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869003/img-7_fd6fff.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869003/img-8_kim0k2.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869004/img-9_escst5.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750868999/img-10_k8nj07.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750868999/img-11_lvxlmh.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750868999/img-12_e79xbf.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869000/img-13_wmcwtb.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869000/img-14_ip13dd.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869000/img-15_ultcno.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869001/img-16_f2qrct.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869001/img-17_gciu60.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869001/img-18_k1u30b.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869001/img-19_kcnyte.jpg"
   ];
 
   return (

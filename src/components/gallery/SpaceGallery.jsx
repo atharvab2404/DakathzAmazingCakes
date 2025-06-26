@@ -3,26 +3,26 @@ import { Link } from "react-router-dom";
 
 const SpaceGallery = () => {
   const images = [
-    "/theme/space/img-1.jpg",
-    "/theme/space/img-2.jpg",
-    "/theme/space/img-3.jpg",
-    "/theme/space/img-4.jpg",
-    "/theme/space/img-5.jpg",
-    "/theme/space/img-6.jpg",
-    "/theme/space/img-7.jpg",
-    "/theme/space/img-8.jpg",
-    "/theme/space/img-9.jpg",
-    "/theme/space/img-10.jpg",
-    "/theme/space/img-11.jpg",
-    "/theme/space/img-12.jpg",
-    "/theme/space/img-13.jpg",
-    "/theme/space/img-14.jpg",
-    "/theme/space/img-15.jpg",
-    "/theme/space/img-16.jpg",
-    "/theme/space/img-17.jpg",
-    "/theme/space/img-18.jpg",
-    "/theme/space/img-19.jpg",
-    "/theme/space/img-20.jpg"
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869010/img-1_sqjn9k.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869012/img-2_z9ediq.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869012/img-3_manvcf.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869012/img-4_l1cf0c.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869012/img-5_k0sm2s.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869013/img-6_rk3s8o.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869013/img-7_kaemfx.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869013/img-8_he2jhn.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869013/img-9_s0edls.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869010/img-10_z6gxph.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869010/img-11_v761ws.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869010/img-12_kzwk9a.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869011/img-13_q1q1rd.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869011/img-14_nvpl4j.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869011/img-15_kldewh.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869011/img-16_noohvx.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869011/img-17_zdgann.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869011/img-18_o1zbkh.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869012/img-19_azcjya.jpg",
+    "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869012/img-20_z6xjsq.jpg"
   ];
 
   return (

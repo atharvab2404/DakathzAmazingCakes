@@ -3,19 +3,19 @@ import { Link } from "react-router-dom";
 
 const MermaidGallery = () => {
   const images = [
-    "/theme/mermaid/img-1.jpg",
-    "/theme/mermaid/img-2.jpg",
-    "/theme/mermaid/img-3.jpg",
-    "/theme/mermaid/img-4.jpg",
-    "/theme/mermaid/img-5.jpg",
-    "/theme/mermaid/img-6.jpg",
-    "/theme/mermaid/img-7.jpg",
-    "/theme/mermaid/img-8.jpg",
-    "/theme/mermaid/img-9.jpg",
-    "/theme/mermaid/img-10.jpg",
-    "/theme/mermaid/img-11.jpg",
-    "/theme/mermaid/img-12.jpg",
-    "/theme/mermaid/img-13.jpg"
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767807/img-1_ra6qgp.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767809/img-2_x2omfn.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767809/img-3_oa2mvl.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767809/img-4_axck5r.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767810/img-5_rq7sn9.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767810/img-6_r7lvzo.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767808/img-7_nyg6i3.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767807/img-8_acom99.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767808/img-9_eswxp5.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767808/img-10_lpcb3e.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767808/img-11_mapifg.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767808/img-12_nfwlqi.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767809/img-13_trmuga.jpg"
   ];
 
   return (

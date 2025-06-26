@@ -3,25 +3,25 @@ import { Link } from "react-router-dom";
 
 const MickeyGallery = () => {
   const images = [
-    "/theme/mickey/img-1.jpg",
-    "/theme/mickey/img-2.jpg",
-    "/theme/mickey/img-3.jpg",
-    "/theme/mickey/img-4.jpg",
-    "/theme/mickey/img-5.jpg",
-    "/theme/mickey/img-6.jpg",
-    "/theme/mickey/img-7.jpg",
-    "/theme/mickey/img-8.jpg",
-    "/theme/mickey/img-9.jpg",
-    "/theme/mickey/img-10.jpg",
-    "/theme/mickey/img-11.jpg",
-    "/theme/mickey/img-12.jpg",
-    "/theme/mickey/img-13.jpg",
-    "/theme/mickey/img-14.jpg",
-    "/theme/mickey/img-15.jpg",
-    "/theme/mickey/img-16.jpg",
-    "/theme/mickey/img-17.jpg",
-    "/theme/mickey/img-18.jpg",
-    "/theme/mickey/img-19.jpg"
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767809/img-1_uxkb5l.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767811/img-2_l4m5pp.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767812/img-3_thpgzv.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767812/img-4_vdfwor.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767812/img-5_jocejz.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767812/img-6_xhbzrs.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767812/img-7_gpmfko.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767812/img-8_fo080r.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767813/img-9_nif8nk.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767809/img-10_ws4gly.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767810/img-11_azdnrv.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767810/img-12_hmfkqw.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767810/img-13_b6fvrc.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767811/img-14_pkjrw9.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767811/img-15_uj93t0.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767811/img-16_rkkcq2.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767811/img-17_f3utbi.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767811/img-18_eizz71.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767811/img-19_vrikeb.jpg"
   ];
 
   return (

@@ -3,27 +3,27 @@ import { Link } from "react-router-dom";
 
 const MakeupGallery = () => {
   const images = [
-    "/theme/makeup/img-1.jpg",
-    "/theme/makeup/img-2.jpg",
-    "/theme/makeup/img-3.jpg",
-    "/theme/makeup/img-4.jpg",
-    "/theme/makeup/img-5.jpg",
-    "/theme/makeup/img-6.jpg",
-    "/theme/makeup/img-7.jpg",
-    "/theme/makeup/img-8.jpg",
-    "/theme/makeup/img-9.jpg",
-    "/theme/makeup/img-10.jpg",
-    "/theme/makeup/img-11.jpg",
-    "/theme/makeup/img-12.jpg",
-    "/theme/makeup/img-13.jpg",
-    "/theme/makeup/img-14.jpg",
-    "/theme/makeup/img-15.jpg",
-    "/theme/makeup/img-16.jpg",
-    "/theme/makeup/img-17.jpg",
-    "/theme/makeup/img-18.jpg",
-    "/theme/makeup/img-19.jpg",
-    "/theme/makeup/img-20.jpg",
-    "/theme/makeup/img-21.jpg"
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767993/img-1_sgbets.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767997/img-2_wz8hs9.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767996/img-3_obqb5s.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767997/img-4_eytoyd.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767997/img-5_gpwuqx.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767997/img-6_cquyhz.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767998/img-7_dghqu8.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767999/img-8_g6nxxc.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767998/img-9_b0m4yj.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767993/img-10_byxv0a.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767993/img-11_bagw7j.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767993/img-12_qzirr4.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767994/img-13_x2zi2z.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750768000/img-14_fkgwjd.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767995/img-15_m65jwz.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767994/img-16_tqrbhg.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767994/img-17_toah1u.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767995/img-18_olithn.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767995/img-19_q02llc.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767999/img-20_d48lja.jpg",
+    "https://res.cloudinary.com/daf2m3vny/image/upload/v1750768001/img-21_dnstsc.jpg"
   ];
 
   return (

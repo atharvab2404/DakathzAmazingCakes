@@ -3,24 +3,24 @@ import { Link } from "react-router-dom";
 
 const BabyshowerGallery = () => {
   const images = [
-    "/theme/babyshower/img-1.jpg",
-    "/theme/babyshower/img-2.jpg",
-    "/theme/babyshower/img-3.jpg",
-    "/theme/babyshower/img-4.jpg",
-    "/theme/babyshower/img-5.jpg",
-    "/theme/babyshower/img-6.jpg",
-    "/theme/babyshower/img-7.jpg",
-    "/theme/babyshower/img-8.jpg",
-    "/theme/babyshower/img-9.jpg",
-    "/theme/babyshower/img-10.jpg",
-    "/theme/babyshower/img-11.jpg",
-    "/theme/babyshower/img-12.jpg",
-    "/theme/babyshower/img-13.jpg",
-    "/theme/babyshower/img-14.jpg",
-    "/theme/babyshower/img-15.jpg",
-    "/theme/babyshower/img-16.jpg",
-    "/theme/babyshower/img-17.jpg",
-    "/theme/babyshower/img-18.jpg"
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741215/img-1_umd6ka.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741222/img-2_iwspzi.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741222/img-3_xcic35.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741223/img-4_qfk7cd.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741223/img-5_rbofgd.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741224/img-6_pkfml7.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741225/img-7_kpgzvf.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741225/img-8_agd2ed.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741226/img-9_jifnm0.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741216/img-10_bk7sde.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741216/img-11_ekealc.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741217/img-12_vd5t9l.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741218/img-13_w6inyh.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741219/img-14_tukeil.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741219/img-15_mbpiy8.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741220/img-16_aezpjo.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741221/img-17_clwurr.jpg",
+    "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741221/img-18_vhfsyc.jpg"
   ];
 
   return (
