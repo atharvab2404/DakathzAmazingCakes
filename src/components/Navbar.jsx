@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import logo from './logo.png'; // Adjust this path to your logo
+
 
 const Navbar = () => {
   const navItems = [
@@ -53,12 +53,13 @@ const Navbar = () => {
   }, []);
 
   return (
-    <nav className="bg-[#94D1D7] shadow-md sticky top-0 z-50 h-22 flex items-center">
+    <nav className="bg-[#0067ff] shadow-md sticky top-0 z-50 h-22 flex items-center">
       <div className="container mx-auto px-4 w-full">
         <div className="flex justify-between items-center h-full relative">
           {/* Logo on the left */}
-          <div className="flex-shrink-0">
-            <img src={logo} alt="Brand Logo" className="h-24 w-auto" />
+          <div className="flex items-center gap-2">
+            <img src="https://res.cloudinary.com/dqxsgkxps/image/upload/v1751049428/Picture1_fojme5.png" alt="Brand Logo 1" className="h-24 w-auto" />
+            <img src="https://res.cloudinary.com/dqxsgkxps/image/upload/v1751049427/Picture2_fghccs.png" alt="Brand Logo 2" className="h-24 w-auto" />
           </div>
 
           {/* Desktop Menu */}
