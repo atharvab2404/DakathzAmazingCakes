@@ -97,7 +97,7 @@ const Navbar = () => {
 
         {/* Mobile Dropdown */}
         {menuOpen && (
-          <div className="md:hidden mt-2 bg-[#007AA8] rounded-lg py-2">
+          <div className="md:hidden mt-2 bg-[#0067ff] rounded-lg py-2">
             {navItems.map((item, index) => (
               <div key={index} className="nav-link text-center py-2">
                 <a
