@@ -6,6 +6,7 @@ import CatalogueSection from './CatalogueSection';
 import AboutSection from "./AboutSection";
 import HeroSection from "./HeroSection";
 import Navbar from './Navbar';
+import BestsellingCakesSection from "./BestsellingCakesSection";
 
 const chefImages = [
   'https://res.cloudinary.com/dqedwovc4/image/upload/v1750776005/chef1_b2ts7e.jpg',
@@ -102,7 +103,8 @@ const BakeryLandingPage = () => {
         </div>
       </section>
 
-
+      {/* New Bestselling Cakes Section */}
+      <BestsellingCakesSection />
 
       <FlavourSection />
 

@@ -10,7 +10,7 @@ const themes = [
   {
     id: "cakeart",
     name: "Special Realistic CakeArt",
-    description: "A cake that celebrates your favorite superheroes in every slice.",
+    description: "A cake that celebrates your favorite Ocassion in every slice.",
     keywords: ["fondant", "figure", "cakeart", "realistic"],
     images: ["https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869106/img-1_fqpg8d.jpg",
     "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869108/img-2_dk7ohp.jpg",
@@ -24,7 +24,7 @@ const themes = [
   {
     id: "fondantfigure",
     name: "Special Fondant Figurine Cakes",
-    description: "A cake that celebrates your favorite superheroes in every slice.",
+    description: "A cake that celebrates your favorite Ocassion in every slice.",
     keywords: ["fondant", "figure", "cakeart", "realistic"],
     images: ["https://res.cloudinary.com/dqxsgkxps/image/upload/v1750949630/img-1_si3gzr.jpg",
     "https://res.cloudinary.com/dqxsgkxps/image/upload/v1750949643/img-2_jdlegy.jpg",
@@ -37,7 +37,7 @@ const themes = [
   {
     id: "fondantprops",
     name: "Special Fondant Props Cakes",
-    description: "A cake that celebrates your favorite superheroes in every slice.",
+    description: "A cake that celebrates your favorite Ocassion in every slice.",
     keywords: ["fondant", "figure", "cakeart", "realistic"],
     images: ["https://res.cloudinary.com/daf2m3vny/image/upload/v1750767858/img-1_e6096x.jpg",
     "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767894/img-2_e3zgbb.jpg",
@@ -50,7 +50,7 @@ const themes = [
   {
     id: "superhero",
     name: "Superhero Themed Cake",
-    description: "A cake that celebrates your favorite superheroes in every slice.",
+    description: "A cake that celebrates your favorite Ocassion in every slice.",
     keywords: ["superhero", "batman", "spiderman", "marvel", "dc", "hero"],
     images: ["https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869018/img-1_sbrl8o.jpg",
     "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869021/img-2_ihntbk.jpg",
@@ -62,7 +62,7 @@ const themes = [
   {
     id: "frozen",
     name: "Frozen Themed Cake",
-    description: "A cake that celebrates your favorite superheroes in every slice.",
+    description: "A cake that celebrates your favorite Ocassion in every slice.",
     keywords: ["pig", "peppa", "peppa pig"],
     images: ["https://res.cloudinary.com/daf2m3vny/image/upload/v1750767844/img-1_d9b5gc.jpg",
     "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767846/img-2_dghxmy.jpg",
@@ -74,7 +74,7 @@ const themes = [
   {
     id: "cartoon",
     name: "Cartoon Charcter Themed Cake",
-    description: "A cake that celebrates your favorite superheroes in every slice.",
+    description: "A cake that celebrates your favorite Ocassion in every slice.",
     keywords: ["elsa", "aana", "frozen", "snow", "snowman", "olaf", "ice", "disney"],
     images: ["https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741278/img-1_gn5x0a.jpg",
     "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741287/img-2_nucynf.jpg",
@@ -86,7 +86,7 @@ const themes = [
   {
     id: "football",
     name: "Football Themed Cake",
-    description: "A cake that celebrates your favorite superheroes in every slice.",
+    description: "A cake that celebrates your favorite Ocassion in every slice.",
     keywords: ["football", "ball", "messi", "ronaldo", "fifa", "sports", "ground", "real madrid", "barcelona"],
     images: ["https://res.cloudinary.com/daf2m3vny/image/upload/v1750767933/img-1_u8bkqs.jpg",
     "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767936/img-2_saw6u7.jpg",
@@ -98,7 +98,7 @@ const themes = [
   {
     id: "princess",
     name: "Princess Themed Cake",
-    description: "A cake that celebrates your favorite superheroes in every slice.",
+    description: "A cake that celebrates your favorite Ocassion in every slice.",
     keywords: ["cricket", "bat", "ball", "dhoni", "kohli", "tendulkar", "csk", "rcb", "stump", "wicket", "pitch"],
     images: ["https://res.cloudinary.com/ddbgsdv61/image/upload/v1750927070/img-1_chdly1.jpg",
     "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750927074/img-2_wilwtz.jpg",
@@ -110,7 +110,7 @@ const themes = [
   {
     id: "unicorn",
     name: "Unicorn Themed Cake",
-    description: "A cake that celebrates your favorite superheroes in every slice.",
+    description: "A cake that celebrates your favorite Ocassion in every slice.",
     keywords: ["horse", "unicorn", "imaginary", "cartoon"],
     images: ["https://res.cloudinary.com/ddbgsdv61/image/upload/v1750927082/img-1_rdkdqe.jpg",
     "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750927087/img-2_gxfjzk.jpg",
@@ -122,7 +122,7 @@ const themes = [
   {
     id: "cricket",
     name: "Cricket Themed Cake",
-    description: "A cake that celebrates your favorite superheroes in every slice.",
+    description: "A cake that celebrates your favorite Ocassion in every slice.",
     keywords: ["cute", "beautiful", "butterfly"],
     images: ["https://res.cloudinary.com/ddrimzuvz/image/upload/v1750749208/img-1_ovdmk2.jpg",
     "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750749242/img-2_mepn54.jpg",
@@ -134,7 +134,7 @@ const themes = [
   {
     id: "alcohol",
     name: "Alcohol Themed Cake",
-    description: "A cake that celebrates your favorite superheroes in every slice.",
+    description: "A cake that celebrates your favorite Ocassion in every slice.",
     keywords: ["kids", "cute", "girls", "doll", "barbie"],
     images: ["https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741054/img-1_le7fys.jpg",
     "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741055/img-2_r7lnof.jpg",
@@ -146,7 +146,7 @@ const themes = [
   {
     id: "baby",
     name: "Baby Themed Cake",
-    description: "A cake that celebrates your favorite superheroes in every slice.",
+    description: "A cake that celebrates your favorite Ocassion in every slice.",
     keywords: ["tom", "jerry", "cartoon"],
     images: ["https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741142/img-1_lsvigd.jpg",
     "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741148/img-2_wvauit.jpg",
@@ -158,7 +158,7 @@ const themes = [
   {
     id: "barbie",
     name: "Barbie Themed Cake",
-    description: "A cake that celebrates your favorite superheroes in every slice.",
+    description: "A cake that celebrates your favorite Ocassion in every slice.",
     keywords: ["youtube", "cartoon", "kids"],
     images: ["https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741227/img-1_quj9al.jpg",
     "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741230/img-2_wmxjov.jpg",
@@ -170,7 +170,7 @@ const themes = [
   {
     id: "cars",
     name: "Cars Themed Cake",
-    description: "A cake that celebrates your favorite superheroes in every slice.",
+    description: "A cake that celebrates your favorite Ocassion in every slice.",
     keywords: ["youtube", "cartoon", "kids"],
     images: ["https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741469/img-1_ofcakw.jpg",
     "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741477/img-2_ht93kb.jpg",
@@ -182,7 +182,7 @@ const themes = [
   {
     id: "jungle",
     name: "Jungle Themed Cake",
-    description: "A cake that celebrates your favorite superheroes in every slice.",
+    description: "A cake that celebrates your favorite Ocassion in every slice.",
     keywords: ["youtube", "cartoon", "kids"],
     images: ["https://res.cloudinary.com/daf2m3vny/image/upload/v1750768017/img-1_ugtpwl.jpg",
     "https://res.cloudinary.com/daf2m3vny/image/upload/v1750768023/img-2_xm5qpk.jpg",
@@ -194,7 +194,7 @@ const themes = [
   {
     id: "makeup",
     name: "Makeup Themed Cake",
-    description: "A cake that celebrates your favorite superheroes in every slice.",
+    description: "A cake that celebrates your favorite Ocassion in every slice.",
     keywords: ["youtube", "cartoon", "kids"],
     images: ["https://res.cloudinary.com/daf2m3vny/image/upload/v1750767993/img-1_sgbets.jpg",
     "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767997/img-2_wz8hs9.jpg",
@@ -206,7 +206,7 @@ const themes = [
   {
     id: "spiderman",
     name: "Spiderman Themed Cake",
-    description: "A cake that celebrates your favorite superheroes in every slice.",
+    description: "A cake that celebrates your favorite Ocassion in every slice.",
     keywords: ["youtube", "cartoon", "kids"],
     images: ["https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869014/img-1_cndlhq.jpg",
     "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869015/img-2_cqcfiw.jpg",
@@ -218,7 +218,7 @@ const themes = [
   {
     id: "space",
     name: "Space Themed Cake",
-    description: "A cake that celebrates your favorite superheroes in every slice.",
+    description: "A cake that celebrates your favorite Ocassion in every slice.",
     keywords: ["youtube", "cartoon", "kids"],
     images: ["https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869010/img-1_sqjn9k.jpg",
     "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869012/img-2_z9ediq.jpg",
@@ -230,7 +230,7 @@ const themes = [
   {
     id: "tech",
     name: "Tech Themed Cake",
-    description: "A cake that celebrates your favorite superheroes in every slice.",
+    description: "A cake that celebrates your favorite Ocassion in every slice.",
     keywords: ["youtube", "cartoon", "kids"],
     images: ["https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869027/img-1_n3tacd.jpg",
     "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869029/img-2_n4dkj4.jpg",
@@ -242,7 +242,7 @@ const themes = [
   {
     id: "travel",
     name: "Travel Themed Cake",
-    description: "A cake that celebrates your favorite superheroes in every slice.",
+    description: "A cake that celebrates your favorite Ocassion in every slice.",
     keywords: ["youtube", "cartoon", "kids"],
     images: ["https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869031/img-1_mitcgc.jpg",
     "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869033/img-2_uhruhu.jpg",
@@ -254,7 +254,7 @@ const themes = [
   {
     id: "castle",
     name: "Castle Themed Cake",
-    description: "A cake that celebrates your favorite superheroes in every slice.",
+    description: "A cake that celebrates your favorite Ocassion in every slice.",
     keywords: ["youtube", "cartoon", "kids"],
     images: ["https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741447/img-1_jhu53j.jpg",
     "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741499/img-2_azc59x.jpg",
@@ -266,7 +266,7 @@ const themes = [
   {
     id: "cocomelon",
     name: "Cocomelon Themed Cake",
-    description: "A cake that celebrates your favorite superheroes in every slice.",
+    description: "A cake that celebrates your favorite Ocassion in every slice.",
     keywords: ["youtube", "cartoon", "kids"],
     images: ["https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741458/img-1_nsj3cp.jpg",
     "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741462/img-2_f1tawq.jpg",
@@ -278,7 +278,7 @@ const themes = [
   {
     id: "babyboss",
     name: "babyboss Themed Cake",
-    description: "A cake that celebrates your favorite superheroes in every slice.",
+    description: "A cake that celebrates your favorite Ocassion in every slice.",
     keywords: ["youtube", "cartoon", "kids"],
     images: ["https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741172/img-1_m5qg81.jpg",
     "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741178/img-2_r1tlbr.jpg",
@@ -290,7 +290,7 @@ const themes = [
   {
     id: "babyshower",
     name: "babyshower Themed Cake",
-    description: "A cake that celebrates your favorite superheroes in every slice.",
+    description: "A cake that celebrates your favorite Ocassion in every slice.",
     keywords: ["youtube", "cartoon", "kids"],
     images: ["https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741215/img-1_umd6ka.jpg",
     "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750741222/img-2_iwspzi.jpg",
@@ -302,7 +302,7 @@ const themes = [
   {
     id: "dress",
     name: "Dress Themed Cake",
-    description: "A cake that celebrates your favorite superheroes in every slice.",
+    description: "A cake that celebrates your favorite Ocassion in every slice.",
     keywords: ["youtube", "cartoon", "kids"],
     images: ["https://res.cloudinary.com/ddrimzuvz/image/upload/v1750749286/img-1_jjkhwj.jpg",
     "https://res.cloudinary.com/ddrimzuvz/image/upload/v1750749311/img-2_chuxgx.jpg",
@@ -314,7 +314,7 @@ const themes = [
   {
     id: "gaming",
     name: "Gaming Themed Cake",
-    description: "A cake that celebrates your favorite superheroes in every slice.",
+    description: "A cake that celebrates your favorite Ocassion in every slice.",
     keywords: ["youtube", "cartoon", "kids"],
     images: ["https://res.cloudinary.com/daf2m3vny/image/upload/v1750767852/img-1_fi7dke.jpg",
     "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767855/img-2_tjlrnh.jpg",
@@ -326,7 +326,7 @@ const themes = [
   {
     id: "harrypotter",
     name: "Harry Potter Themed Cake",
-    description: "A cake that celebrates your favorite superheroes in every slice.",
+    description: "A cake that celebrates your favorite Ocassion in every slice.",
     keywords: ["youtube", "cartoon", "kids"],
     images: ["https://res.cloudinary.com/daf2m3vny/image/upload/v1750768003/img-1_brdyoc.jpg",
     "https://res.cloudinary.com/daf2m3vny/image/upload/v1750768010/img-2_izx95t.jpg",
@@ -338,7 +338,7 @@ const themes = [
   {
     id: "mermaid",
     name: "Mermaid Themed Cake",
-    description: "A cake that celebrates your favorite superheroes in every slice.",
+    description: "A cake that celebrates your favorite Ocassion in every slice.",
     keywords: ["youtube", "cartoon", "kids"],
     images: ["https://res.cloudinary.com/daf2m3vny/image/upload/v1750767807/img-1_ra6qgp.jpg",
     "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767809/img-2_x2omfn.jpg",
@@ -350,7 +350,7 @@ const themes = [
   {
     id: "mickey",
     name: "Mickey Mouse Themed Cake",
-    description: "A cake that celebrates your favorite superheroes in every slice.",
+    description: "A cake that celebrates your favorite Ocassion in every slice.",
     keywords: ["youtube", "cartoon", "kids"],
     images: ["https://res.cloudinary.com/daf2m3vny/image/upload/v1750767809/img-1_uxkb5l.jpg",
     "https://res.cloudinary.com/daf2m3vny/image/upload/v1750767811/img-2_l4m5pp.jpg",
@@ -362,7 +362,7 @@ const themes = [
   {
     id: "minecraft",
     name: "Minecraft Themed Cake",
-    description: "A cake that celebrates your favorite superheroes in every slice.",
+    description: "A cake that celebrates your favorite Ocassion in every slice.",
     keywords: ["youtube", "cartoon", "kids"],
     images: ["https://res.cloudinary.com/daf2m3vny/image/upload/v1750867927/img-1_jteker.jpg",
     "https://res.cloudinary.com/daf2m3vny/image/upload/v1750867928/img-2_sqdjt6.jpg",
@@ -374,7 +374,7 @@ const themes = [
   {
     id: "minions",
     name: "Minions Themed Cake",
-    description: "A cake that celebrates your favorite superheroes in every slice.",
+    description: "A cake that celebrates your favorite Ocassion in every slice.",
     keywords: ["youtube", "cartoon", "kids"],
     images: ["https://res.cloudinary.com/daf2m3vny/image/upload/v1750767999/img-1_vbrioc.jpg",
     "https://res.cloudinary.com/daf2m3vny/image/upload/v1750768593/img-2_l7u6ev.jpg",
@@ -386,7 +386,7 @@ const themes = [
   {
     id: "music",
     name: "Music Themed Cake",
-    description: "A cake that celebrates your favorite superheroes in every slice.",
+    description: "A cake that celebrates your favorite Ocassion in every slice.",
     keywords: ["youtube", "cartoon", "kids"],
     images: ["https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869035/img-1_hvqqz3.jpg",
     "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869037/img-2_hwvrtv.jpg",
@@ -398,7 +398,7 @@ const themes = [
   {
     id: "pawpatrol",
     name: "Pawpatrol Themed Cake",
-    description: "A cake that celebrates your favorite superheroes in every slice.",
+    description: "A cake that celebrates your favorite Ocassion in every slice.",
     keywords: ["youtube", "cartoon", "kids"],
     images: ["https://res.cloudinary.com/ddbgsdv61/image/upload/v1750868999/img-1_mbqcdk.jpg",
     "https://res.cloudinary.com/ddbgsdv61/image/upload/v1750869002/img-2_mz33jo.jpg",

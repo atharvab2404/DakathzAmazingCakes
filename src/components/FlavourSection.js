@@ -90,27 +90,32 @@ const chocolateFusions = [
 const premiumFlavours = [
   {
     label: "Rasmalai Cake",
-    bg: "url('/images/rasmalai-bg.jpg')",
+    bg: "url('https://res.cloudinary.com/dqxsgkxps/image/upload/v1754119026/cat1_lgy9fi.jpg')",
     description: "Traditional Indian flavor with a twist.",
   },
   {
     label: "Mango Rose Cake",
-    bg: "url('/images/mango-rose.jpg')",
+    bg: "url('https://res.cloudinary.com/dqxsgkxps/image/upload/v1754119026/cat2_puvcbo.jpg')",
     description: "Summer mangoes and rose essence.",
   },
   {
     label: "Gulab Jamun Cake",
-    bg: "url('/images/coffee-cake.jpg')",
+    bg: "url('https://res.cloudinary.com/dqxsgkxps/image/upload/v1754119026/cat3_zkwvvd.jpg')",
     description: "Creamy coffee with burnt caramel swirls.",
   },
   {
     label: "Rose Pistachio",
-    bg: "url('/images/coffee-cake.jpg')",
+    bg: "url('https://res.cloudinary.com/dqxsgkxps/image/upload/v1754119025/cat4_uuz0dk.jpg')",
     description: "Creamy coffee with burnt caramel swirls.",
   },
   {
     label: "American Buttercream",
-    bg: "url('/images/coffee-cake.jpg')",
+    bg: "url('https://res.cloudinary.com/dqxsgkxps/image/upload/v1754119024/cat5_qlu3fy.jpg')",
+    description: "Creamy coffee with burnt caramel swirls.",
+  },
+  {
+    label: "Rabdi Jalebi Cake",
+    bg: "url('https://res.cloudinary.com/dqxsgkxps/image/upload/v1754119182/cat6_fdd9wh.jpg')",
     description: "Creamy coffee with burnt caramel swirls.",
   },
 ];
