@@ -45,63 +45,9 @@ const BakeryLandingPage = () => {
 
       <AboutSection />
       
+      
 
-      <section className="bg-pink-50 flex flex-col md:flex-row items-center justify-between px-4 md:px-10 py-10 gap-8">
-        {/* Left: Description */}
-        <div className="w-full md:w-1/2">
-          <motion.h2
-            className="text-3xl font-bold text-pink-600 mb-4"
-            initial={{ opacity: 0, x: -50 }}
-            animate={{ opacity: 1, x: 0 }}
-            transition={{ duration: 1 }}
-          >
-            Meet the Chef
-          </motion.h2>
-          <motion.p
-            className="text-base text-gray-700 leading-relaxed"
-            initial={{ opacity: 0, x: -50 }}
-            animate={{ opacity: 1, x: 0 }}
-            transition={{ delay: 0.3, duration: 1 }}
-          >
-            Behind every cake is a story, and behind every story is our passionate chef who turns sugar and flour into magic.
-            With years of dedication and love for baking, she crafts each cake like a piece of art to bring joy to every celebration.
-          </motion.p>
-        </div>
-
-        {/* Right: Image Carousel */}
-        <div className="w-full md:w-1/2 relative">
-          <div className="overflow-hidden rounded-xl shadow-lg h-130 sm:h-[420px] md:h-[500px] w-full relative">
-            <AnimatePresence mode="wait">
-              <motion.img
-                key={chefImages[currentImage]}
-                src={chefImages[currentImage]}
-                alt={`Chef ${currentImage + 1}`}
-                className="object-cover w-full h-full"
-                initial={{ opacity: 0, scale: 0.95 }}
-                animate={{ opacity: 1, scale: 1 }}
-                exit={{ opacity: 0, scale: 1.05 }}
-                transition={{ duration: 0.8 }}
-              />
-            </AnimatePresence>
-          </div>
-
-          {/* Navigation Buttons */}
-          <div className="absolute top-1/2 left-0 transform -translate-y-1/2 flex justify-between w-full px-3">
-            <button
-              onClick={handlePrev}
-              className="bg-white/70 hover:bg-white text-pink-600 font-bold p-2 rounded-full shadow"
-            >
-              ‹
-            </button>
-            <button
-              onClick={handleNext}
-              className="bg-white/70 hover:bg-white text-pink-600 font-bold p-2 rounded-full shadow"
-            >
-              ›
-            </button>
-          </div>
-        </div>
-      </section>
+      
 
       {/* New Bestselling Cakes Section */}
       <BestsellingCakesSection />
